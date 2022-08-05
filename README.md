@@ -1,7 +1,9 @@
 ### Olá! Meu nome é Fabiana Giacomini
 
-- Hoje trabalho com Java e PHP
-- E atualmente estou estudando Laravel, React e Flutter
+- Trabalho hoje com PHP / Laravel
+- Já trabalhei bastante com Java
+- Estou estudando padrões de projeto, arquiteturas e aprimorando conhecimentos
+- Gosto muito de estudar e aplicar padrões que facilitem o crescimento saudável do sistema, bem como investir na qualidade do software com testes automatizados <3
 
 <div>
   <a href="https://github.com/fabygiacomini">
