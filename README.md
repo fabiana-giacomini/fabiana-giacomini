@@ -6,8 +6,6 @@
 - Gosto muito de estudar e aplicar padrões que facilitem o crescimento saudável do sistema, bem como investir na qualidade do software com testes automatizados <3
 
 <div>
-  <a href="https://github.com/fabygiacomini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabygiacomini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabygiacomini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
