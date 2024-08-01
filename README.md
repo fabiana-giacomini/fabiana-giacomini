@@ -1,9 +1,8 @@
-### Olá! Meu nome é Fabiana Giacomini
+### Hi! I'm Fabiana Giacomini :wink:
 
-- Trabalho hoje com PHP / Laravel
-- Já trabalhei bastante com Java
-- Estou estudando padrões de projeto, arquiteturas e aprimorando conhecimentos
-- Gosto muito de estudar e aplicar padrões que facilitem o crescimento saudável do sistema, bem como investir na qualidade do software com testes automatizados <3
+- My current obsession is Functional Programming :sunglasses:
+- Already worked (a lot) with Java <3, PHP, Javascript...
+- Love to study new things, video games and dogs! :dog:
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabygiacomini&layout=compact&langs_count=7&theme=dracula"/>
